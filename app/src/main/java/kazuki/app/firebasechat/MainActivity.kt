@@ -1,4 +1,4 @@
-git package kazuki.app.firebasechat
+package kazuki.app.firebasechat
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
